@@ -26,7 +26,7 @@ var handler = async (m, { text, usedPrefix, command }) => {
 
 handler.help = handler.command = ['xvideossearch','xsearch'];
 handler.tags = ['internet'];
-handler.limit = true;
-handler.premium = true;
+handler.limit = false;
+handler.premium = false;
 
 module.exports = handler;
