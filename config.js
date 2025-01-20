@@ -15,7 +15,7 @@ global.author = 'Bot WhatsApp'
 global.maxwarn = '3' // Peringatan maksimum Warn
 
 global.autobio = false // Set true/false untuk mengaktifkan atau mematikan autobio (default: false)
-global.antiporn = true // Set true/false untuk Auto delete pesan porno (bot harus admin) (default: true)
+global.antiporn = false // Set true/false untuk Auto delete pesan porno (bot harus admin) (default: true)
 global.spam = true // Set true/false untuk anti spam (default: true)
 global.gcspam = false // Set true/false untuk menutup grup ketika spam (default: false)
     
