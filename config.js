@@ -1,10 +1,10 @@
-global.owner = ['62895331520602']  
-global.mods = ['62895331520602'] 
-global.prems = ['62895331520602']
-global.nameowner = 'Tio'
-global.numberowner = '62895331520602' 
+global.owner = ['94721732206']  
+global.mods = ['94721732206'] 
+global.prems = ['94721732206']
+global.nameowner = 'CHathu'
+global.numberowner = 'V' 
 global.mail = 'support@tioprm.eu.org' 
-global.gc = 'https://chat.whatsapp.com/CP5mV2D9IO730HpBgmkuyi'
+global.gc = 'https://chat.whatsapp.com'
 global.instagram = 'https://instagram.com/prm2.0'
 global.wm = '© Tio'
 global.wait = '_*Tunggu sedang di proses...*_'
