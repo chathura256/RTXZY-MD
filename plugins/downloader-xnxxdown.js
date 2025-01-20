@@ -16,7 +16,7 @@ conn.sendMessage(m.chat, { video: { url: hasil.result.url }, fileName: 'xnxx.mp4
 }
 handler.command = handler.help = ['xnxxdown'];
 handler.tags = ['internet'];
-handler.limit = true;
-handler.premium = true;
+handler.limit = false;
+handler.premium = false;
 
 module.exports = handler;
